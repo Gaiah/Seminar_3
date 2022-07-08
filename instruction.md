@@ -1,12 +1,12 @@
 # ** Instruction for version control system Git **
 
- ## Repository initialization
+ * ## Repository initialization
 
- ## Repository status checkout
+ * ## Repository status checkout
 
- ## Versioning adding
+ * ## Versioning adding
 
- ## Changes commiting
+ * ## Changes commiting
 
- ## Commits history review
+ * ## Commits history review
  
